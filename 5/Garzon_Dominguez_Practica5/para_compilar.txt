@@ -1,0 +1,11 @@
+Para compilar:
+
+cc array.c automata.c mystring.c main.c memutils.c -oautomata
+
+
+Nota: Hice lo posible para que el programa funcione con archivos de texto 
+creados en linux y windows, aunque sería ideal que se usaran archivos linux. 
+El asunto es que windows usa "\r\n" para las nuevas lineas, y linux usa "\n".
+
+El programa funcionó con los archivos de la plataforma, que al parecer tenían
+el estilo de windows.

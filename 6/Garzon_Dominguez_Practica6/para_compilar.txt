@@ -1,0 +1,3 @@
+Para compilar:
+
+cc array.c automata.c mystring.c main.c memutils.c -ogram

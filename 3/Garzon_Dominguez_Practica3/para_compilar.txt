@@ -1,0 +1,6 @@
+Para compilar:
+
+cc automata.c mystring.c main.c -omain
+
+Nota: todos los archivos del directorio data_structures fueron escritos por mi
+y solo usan stdlib.h. Son macros para estructuras de datos genericas.

@@ -1,0 +1,13 @@
+Para el autómata 1.txt
+aaab
+ababa
+
+Para el autómata 2.txt
+ab
+aaab
+abab
+
+Para el autómata 3.txt
+a.aa
++a.a
++aa.aa
